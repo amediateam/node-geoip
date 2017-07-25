@@ -1,6 +1,6 @@
 {
 	"name"        :  "@mallzee/geoip-lite",
-	"version"     :  "1.1.8",
+	"version"     :  "1.1.9",
 	"description" :  "A light weight native JavaScript implementation of GeoIP API from MaxMind forked from bluesmoon/node-geoip.git",
 	"keywords"    :  ["geo", "geoip", "ip", "ipv4", "ipv6", "geolookup", "maxmind", "geolite"],
 	"homepage"    :  "https://github.com/bluesmoon/node-geoip",
